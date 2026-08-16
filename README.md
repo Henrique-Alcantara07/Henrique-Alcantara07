@@ -18,8 +18,8 @@
 ## GitHub Stats 📈
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique-Alcantara07&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Alcantara07&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Henrique-Alcantara07&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Henrique-Alcantara07&layout=compact&theme=dark" width="48%" />
 </p>
 
 ## Goals & Interests 🤖
